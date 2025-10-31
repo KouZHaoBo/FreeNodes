@@ -7163,3 +7163,31 @@ proxies:
         headers:
             HOST: broadcastlv.chat.bilibili.com
         path: /
+    - country: "\U0001F1EB\U0001F1F7FR"
+      name: "恢复更新\U0001F1EB\U0001F1F7FR²_5|1.0MB/s"
+      password: telegram-id-privatevpns
+      port: 22222
+      server: 13.36.74.68
+      skip-cert-verify: true
+      sni: trojan.burgerip.co.uk
+      type: trojan
+      udp: true
+    - alterId: 0
+      cipher: auto
+      name: "恢复更新\U0001F1F0\U0001F1F7KR²_1|6.7MB/s"
+      port: 21617
+      server: cdn2.ttcdn.top
+      skip-cert-verify: true
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 702dfadc-c14b-48ed-a345-bfc340774717
+    - alterId: 0
+      cipher: auto
+      name: "恢复更新\U0001F1FA\U0001F1F8US²_2|2.9MB/s"
+      port: 13231
+      server: cdn2.ttcdn.top
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 9848862b-298e-4394-91e6-fc77254dc7b7
